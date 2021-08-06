@@ -1,0 +1,13 @@
+D:\B-Mine\Company\Company\Sollers\EmployeeApplication\EmployeeApplication\bin\Debug\netcoreapp3.1\EmployeeApplication.exe
+D:\B-Mine\Company\Company\Sollers\EmployeeApplication\EmployeeApplication\bin\Debug\netcoreapp3.1\EmployeeApplication.deps.json
+D:\B-Mine\Company\Company\Sollers\EmployeeApplication\EmployeeApplication\bin\Debug\netcoreapp3.1\EmployeeApplication.runtimeconfig.json
+D:\B-Mine\Company\Company\Sollers\EmployeeApplication\EmployeeApplication\bin\Debug\netcoreapp3.1\EmployeeApplication.runtimeconfig.dev.json
+D:\B-Mine\Company\Company\Sollers\EmployeeApplication\EmployeeApplication\bin\Debug\netcoreapp3.1\EmployeeApplication.dll
+D:\B-Mine\Company\Company\Sollers\EmployeeApplication\EmployeeApplication\bin\Debug\netcoreapp3.1\EmployeeApplication.pdb
+D:\B-Mine\Company\Company\Sollers\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp3.1\EmployeeApplication.csproj.AssemblyReference.cache
+D:\B-Mine\Company\Company\Sollers\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp3.1\EmployeeApplication.AssemblyInfoInputs.cache
+D:\B-Mine\Company\Company\Sollers\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp3.1\EmployeeApplication.AssemblyInfo.cs
+D:\B-Mine\Company\Company\Sollers\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp3.1\EmployeeApplication.csproj.CoreCompileInputs.cache
+D:\B-Mine\Company\Company\Sollers\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp3.1\EmployeeApplication.dll
+D:\B-Mine\Company\Company\Sollers\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp3.1\EmployeeApplication.pdb
+D:\B-Mine\Company\Company\Sollers\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp3.1\EmployeeApplication.genruntimeconfig.cache
